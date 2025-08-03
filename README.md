@@ -57,7 +57,7 @@ California faces increasingly severe wildfires due to climate change and poor la
 ---
 
 ## 👥 Team Members
-- **🇩🇿 iced_ice : malek Boumechta (Algeria):** Focused on AI for Waste Management  
+- **🇩🇿 team leader iced_ice : malek Boumechta (Algeria):** Focused on AI for Waste Management  
 - **🇪🇬 omarfaisal0  Omar Faisal (Egypt):** Focused on AI for Traffic in Cairo  
 - **🇺🇸 Aerin Fyles  (USA):** Focused on AI for Wildfire Prevention
 
