@@ -27,6 +27,8 @@ Unregulated waste disposal in Algeria has led to serious air, soil, and water po
 **Problem:**  
 Cairo experiences extreme traffic congestion due to outdated infrastructure and traffic mismanagement. This contributes to high levels of air pollution and lost productivity.
 
+![Image](https://github.com/user-attachments/assets/338cb2cf-2e82-40e1-b772-097981702f65
+
 **AI-Based Solution:**  
 - Real-time traffic prediction models using machine learning  
 - Smart traffic lights that adapt based on congestion levels  
