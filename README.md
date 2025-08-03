@@ -17,6 +17,7 @@ This collaborative project was developed by three young STEM leaders from Algeri
 ### 🇩🇿 Algeria: Waste Contamination Crisis
 **Problem:**  
 Unregulated waste disposal in Algeria has led to serious air, soil, and water pollution. Overflowing landfills and open dumping near residential areas contribute to health risks and environmental damage.
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/ef67a009-aeb3-49d0-a11d-090d532faf61" />
 
 **AI-Based Solution:**  
 - AI-powered image recognition to detect illegal dumping sites  
@@ -26,6 +27,7 @@ Unregulated waste disposal in Algeria has led to serious air, soil, and water po
 ### 🇪🇬 Egypt: Traffic Congestion in Cairo
 **Problem:**  
 Cairo experiences extreme traffic congestion due to outdated infrastructure and traffic mismanagement. This contributes to high levels of air pollution and lost productivity.
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/5fa892c8-0a57-4909-b5a4-4dc5cbe06138" />
 
 
 **AI-Based Solution:**  
@@ -58,11 +60,6 @@ California faces increasingly severe wildfires due to climate change and poor la
 - **🇩🇿 iced_ice : malek Boumechta (Algeria):** Focused on AI for Waste Management  
 - **🇪🇬 omarfaisal0  Omar Faisal (Egypt):** Focused on AI for Traffic in Cairo  
 - **🇺🇸 Aerin Fyles  (USA):** Focused on AI for Wildfire Prevention
-
----
-
-## 📸 Screenshots & Diagrams
-
 
 ---
 
