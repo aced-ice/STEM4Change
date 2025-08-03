@@ -27,7 +27,6 @@ Unregulated waste disposal in Algeria has led to serious air, soil, and water po
 **Problem:**  
 Cairo experiences extreme traffic congestion due to outdated infrastructure and traffic mismanagement. This contributes to high levels of air pollution and lost productivity.
 
-![Image](https://github.com/user-attachments/assets/338cb2cf-2e82-40e1-b772-097981702f65)
 
 **AI-Based Solution:**  
 - Real-time traffic prediction models using machine learning  
@@ -37,6 +36,8 @@ Cairo experiences extreme traffic congestion due to outdated infrastructure and 
 ### 🇺🇸 United States (California): Wildfires
 **Problem:**  
 California faces increasingly severe wildfires due to climate change and poor land management. These fires result in massive environmental and economic damage.
+
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/aa2ce5ac-dcdb-4ff5-a4a9-3bfbff96905f" />
 
 **AI-Based Solution:**  
 - AI-based satellite monitoring to predict wildfire risks  
